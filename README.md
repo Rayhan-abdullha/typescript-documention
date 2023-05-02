@@ -51,7 +51,7 @@ addNumbers(20, "30"); // error
 // without typescript
 let x;
 x = 20; // correct
-x = "anisul"; // correct
+x = "Rayhan Abdullah"; // correct
 x = true; // correct
 x = [10, 20]; // correct
 
@@ -141,9 +141,9 @@ x = [10, 20]; // Not correct
   let fullName: string;
   let occupation: string;
 
-  firstName = "Anisul";
-  lastName = " Islam";
-  occupation = "student";
+  firstName = "Rayhan";
+  lastName = " Abdullah";
+  occupation = "Programmer";
 
   console.log(firstName);
   console.log(lastName);
@@ -232,13 +232,13 @@ let userName = "anis"; // data type inferred as string
 - Array Type- similar data
 
   ```js
-  // let users = ["anis", "rabu", "pinky"];
+  // let users = ["rayhan", "hm nayem", "jhankar mahbub"];
 
   // let users: string[];
-  // users = ["anis", "rabu", "pinky"];
+  // users = ["sumit saha", "rabbil", "hasin hayder"];
 
   let users: Array<string>;
-  users = ["anis", "rabu", "pinky"];
+  users = ["sumit saha", "rabbil", "hasin hayder"];
 
   // for (let index = 0; index < users.length; index++) {
   //   const element = users[index];
