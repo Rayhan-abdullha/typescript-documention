@@ -4,6 +4,10 @@
 
 ## 1. Introduction
 
+### 1. What is TypeScript, typescirpt. and how is it different from JavaScript?
+
+- Ans:- Typescript is high-level programming language. type plus Javascript equal Typescript.it's open source Javascirpt laibrary and superset of Javascript develop by microsoft.
+
 ### 1.1 What is TypeScript?
 
 - In a simple words, Types + JavaScript = TypeScript
