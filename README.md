@@ -2,6 +2,8 @@
 
 - prerequisities: Javascript
 
+hello coder
+
 ## 1. Introduction
 
 ### 1.1 What is TypeScript?
