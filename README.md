@@ -1,4 +1,4 @@
-# credit: Anisul Islam
+# Credit: Anisul Islam
 # TypeScript Documentation
 
 ## 1. Introduction
